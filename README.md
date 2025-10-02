@@ -1,5 +1,5 @@
 # Java-utility
 A library for making java more easy and fun !
 
-#Discord Support
+# Discord Support
 discord: sesiune
